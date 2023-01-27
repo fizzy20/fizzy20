@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @fizzy20
-- 👀 I’m interested in c++ , cybersecurity and ethical hacking
-- 🌱 I’m currently learning c++ , python , java and html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Print("hello world")
 
-<!---
-fizzy20/fizzy20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Yes I'm a programmer 😎
